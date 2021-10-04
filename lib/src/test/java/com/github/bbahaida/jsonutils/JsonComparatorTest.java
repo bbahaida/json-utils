@@ -1,4 +1,4 @@
-package io.bbahaida.jsonutils;
+package com.github.bbahaida.jsonutils;
 
 
 import org.assertj.core.api.Assertions;
